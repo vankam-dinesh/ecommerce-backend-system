@@ -7,7 +7,7 @@
 ## Tech Stack                              
 
 * Java
-* Spring Framework                    
+* Spring Framework                                                                       
 * Spring Boot
 * Spring Data JPA
 * Hibernate                                                                                 
