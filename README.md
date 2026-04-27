@@ -10,7 +10,7 @@
 * Spring Framework                                                                       
 * Spring Boot
 * Spring Data JPA                                          
-* Hibernate                                                                                 
+* Hibernate                                                                                                             
 * MySQL
 
 ## Modules
